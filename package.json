@@ -1,0 +1,18 @@
+{
+  "name": "IfsWordSearch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TheDro/IfsWordSearch.git",
+  "author": "Andrew <andrewsc32@protonmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.11.0",
+    "vue": "^2.6.6",
+    "vue-hot-reload-api": "^2.3.2"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.5.2",
+    "sass": "^1.17.0",
+    "vue-template-compiler": "^2.6.6"
+  }
+}
